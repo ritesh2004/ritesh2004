@@ -1,0 +1,27 @@
+Item,Category,Quantity, Price (RS)
+Oranges,Produce,1 K.G.,120
+Apples,Produce,1 K.G.,120
+Bananas,Produce,1 K.G.,190
+Lettuce,Produce,1 K.G.,320
+Tomatoes,Produce,1 K.G.,180
+Milk ,Dairy,1 L,150
+Cheese,Dairy,1 K.G.,380
+Eggs,Dairy,1 Piece,7
+Cottage cheese,Dairy,1 K.G.,400
+Poultry,Meat,1 K.G.,210
+Ham,Meat,1 K.G.,200
+Juice,Drinks,1 L,99
+Coffee,Drinks,1 Cup,25
+Tea,Drinks,1 Cup,20
+Water,Drinks,1 L,20
+Noodles,Pasta,1 Pkt,10
+Rice,Pasta,1 Pkt,48
+Canned,Soup,1 Pkt(250L),30
+Dry mix,Soup,1 Pkt(250L),45
+Bread,Bakery,1 Pkt,22
+Potato chips,Snacks,1 Pkt,10
+Pretzels,Snacks,1 Pkt,15
+Ice cream,Snacks,1 Pkt,65
+Cookies,Snacks,1 Pkt,70
+Paper plates,Supplies,1 Pkt,18
+Napkins,Supplies,1 Pkt,14

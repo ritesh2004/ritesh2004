@@ -1,0 +1,33 @@
+Grocery List,,,,
+DATE,,,,
+Done?,Item,Category,Quantity,Price(RS)
+Yes,Oranges,Produce,1,120
+Yes,Apples,Produce,0,? 0.00
+Yes,Bananas,Produce,1,190
+Yes,Lettuce,Produce,0,? 0.00
+Yes,Tomatoes,Produce,0,? 0.00
+Yes,Milk ,Dairy,0,? 0.00
+Yes,Cheese,Dairy,0,? 0.00
+Yes,Eggs,Dairy,0,? 0.00
+Yes,Cottage cheese,Dairy,0,? 0.00
+Yes,Beef,Meat,0,? 0.00
+Yes,Poultry,Meat,0,? 0.00
+Yes,Ham,Meat,0,? 0.00
+Yes,Juice,Drinks,0,? 0.00
+Yes,Coffee,Drinks,0,? 0.00
+Yes,Tea,Drinks,0,? 0.00
+Yes,Water,Drinks,0,? 0.00
+Yes,Noodles,Pasta,0,? 0.00
+Yes,Rice,Pasta,0,? 0.00
+Yes,Canned,Soup,0,? 0.00
+Yes,Dry mix,Soup,0,? 0.00
+Yes,Bread,Bakery,0,? 0.00
+Yes,Potato chips,Snacks,0,? 0.00
+Yes,Pretzels,Snacks,0,? 0.00
+Yes,Ice cream,Snacks,0,? 0.00
+Yes,Cookies,Snacks,0,? 0.00
+Yes,Paper plates,Supplies,0,? 0.00
+Yes,Napkins,Supplies,0,? 0.00
+Total,,,,? 0.00
+,,,,
+You Have to Pay Total:,? 0.00,,,
