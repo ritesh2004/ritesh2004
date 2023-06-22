@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh Pramanik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" width=1000 alt="banner"/>
+[![ritesh2004's GitHub | Languages Over Time](https://stats.quine.sh/ritesh2004/languages-over-time?theme=dark)](https://quine.sh)
 
 # 💫 About Me:
 
