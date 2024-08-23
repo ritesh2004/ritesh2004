@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://ritesh2004.github.io/myPortFolio/](https://ritesh2004.github.io/myPortFolio/)
+- 👨‍💻 All of my projects are available at [https://www.ritesh-pramanik.tech](https://www.ritesh-pramanik.tech/)
 
 - 💬 Ask me about **Django, Python, Javascript, MERN, MongoDB**
 
